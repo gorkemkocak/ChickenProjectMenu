@@ -1,1 +1,1030 @@
-{"ok":true,"menu":[{"id":"699e1cebfab3fda98a7df612","name":"En Çok Tercih Edilenler","slug":"en-cok-tercih-edilenler","description":"","coverImageUrl":"/menu-images/en-cok-tercih-edilenler_6b650c15.jpg","order":1,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df621","categoryId":"699e1cebfab3fda98a7df612","name":"Black Secret Burger","price":385,"description":"Siyah burger ekmeği, kızarmış tavuk (130 - 140 gr), double cheddar peyniri, kırmızı çıtır soğan, ranch sos, göbek marul. Baharatlı patates kızartması ile","imageUrl":"/menu-images/black-secret-burger_20da96d8.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df622","categoryId":"699e1cebfab3fda98a7df612","name":"X Mayo Burger","price":380,"description":"Kızarmış Tavuk (130-140gr), özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile","imageUrl":"/menu-images/x-mayo-burger_32968526.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df623","categoryId":"699e1cebfab3fda98a7df612","name":"Project Tenders (5 Adet)","price":370,"description":"Adet (45-50 gr), baharatlı patates kızartması ile...","imageUrl":"/menu-images/project-tenders-5-adet_2e78c413.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df624","categoryId":"699e1cebfab3fda98a7df612","name":"Project Wings (6 Adet)","price":385,"description":"270gr Kanat. Baharatlı patates kızartması ve ranch sos ile.","imageUrl":"/menu-images/project-wings-6-adet_5c4b9a9d.jpg","order":4,"isActive":true}]},{"id":"699e1cebfab3fda98a7df613","name":"Yeni Ürünler","slug":"yeni-urunler","description":"","coverImageUrl":"/menu-images/yeni-urunler_c25cbdbb.jpg","order":2,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df625","categoryId":"699e1cebfab3fda98a7df613","name":"Project Çıtır Mantar","price":250,"description":"","imageUrl":"/menu-images/project-c-t-r-mantar_da944c25.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df626","categoryId":"699e1cebfab3fda98a7df613","name":"Project Burrito","price":330,"description":"100 gr kızarmış tavuk, göbek, kırmızı soğan, mısır, turşu, meksika fasülyesi, x mayo sos, barbekü sos, patates","imageUrl":"","order":2,"isActive":true}]},{"id":"699e1cebfab3fda98a7df614","name":"Burgerler","slug":"burgerler","description":"","coverImageUrl":"/menu-images/burgerler_1dc62708.jpg","order":3,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df627","categoryId":"699e1cebfab3fda98a7df614","name":"Orijinal Project Burger","price":380,"description":"Kızarmış tavuk (130-140gr), cheddar peyniri, iceberg, turşu, mayonez. Baharatlı patates kızartması ile","imageUrl":"/menu-images/orijinal-project-burger_20cc0286.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df628","categoryId":"699e1cebfab3fda98a7df614","name":"Black Secret Burger","price":385,"description":"Siyah burger ekmeği, kızarmış tavuk (130 - 140 gr), double cheddar peyniri, kırmızı çıtır soğan, ranch sos, göbek marul. Baharatlı patates kızartması ile","imageUrl":"/menu-images/black-secret-burger_bccafd40.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df629","categoryId":"699e1cebfab3fda98a7df614","name":"Secret Project Burger","price":380,"description":"Kızarmış tavuk (130-140gr), özel secret sos, turşu, ballı hardal, soslu kırmızı lahana. Baharatlı patates kızartması ile","imageUrl":"/menu-images/secret-project-burger_018f1ed4.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df62a","categoryId":"699e1cebfab3fda98a7df614","name":"X Mayo Burger","price":380,"description":"Kızarmış Tavuk (130-140gr), özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile","imageUrl":"/menu-images/x-mayo-burger_f78c939b.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df62b","categoryId":"699e1cebfab3fda98a7df614","name":"Project X Burger","price":380,"description":"Kızarmış tavuk (130-140gr), özel acı sos, iceberg, turşu, mayonez. Baharatlı patates kızartması ile","imageUrl":"/menu-images/project-x-burger_1a36f83d.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df62c","categoryId":"699e1cebfab3fda98a7df614","name":"BBQ Project Burger","price":380,"description":"Kızarmış tavuk (130-140gr), özel barbekü sos, iceberg, mayonez, cheddar peyniri. Baharatlı patates kızartması ile","imageUrl":"/menu-images/bbq-project-burger_47e36f54.jpg","order":6,"isActive":true},{"id":"699e1cebfab3fda98a7df62d","categoryId":"699e1cebfab3fda98a7df614","name":"Sweety Project Burger","price":380,"description":"Kızarmış tavuk (130-140gr), özel sweety sos, göbek, turşu ve baharatlı patates kızartması ile","imageUrl":"/menu-images/sweety-project-burger_6ae0e767.jpg","order":7,"isActive":true}]},{"id":"699e1cebfab3fda98a7df615","name":"Parça Tavuklar","slug":"parca-tavuklar","description":"","coverImageUrl":"/menu-images/parca-tavuklar_fbd17245.jpg","order":4,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df62e","categoryId":"699e1cebfab3fda98a7df615","name":"Project Tenders (5 Adet)","price":370,"description":"Adet (45-50 gr), baharatlı patates kızartması ile...","imageUrl":"/menu-images/project-tenders-5-adet_b36605e2.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df62f","categoryId":"699e1cebfab3fda98a7df615","name":"Project Wings (6 Adet)","price":385,"description":"270gr Kanat. Baharatlı patates kızartması ve ranch sos ile.","imageUrl":"/menu-images/project-wings-6-adet_32d2f6ae.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df630","categoryId":"699e1cebfab3fda98a7df615","name":"Project But (6 Adet)","price":373,"description":"270gr But. Baharatlı patates kızartması ve ranch sos ile.","imageUrl":"/menu-images/project-but-6-adet_7b6f3e39.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df631","categoryId":"699e1cebfab3fda98a7df615","name":"Project Tenders (9 Adet)","price":465,"description":"Adet (45-50 gr), baharatlı patates kızartması ile...","imageUrl":"/menu-images/project-tenders-9-adet_c092afcd.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df632","categoryId":"699e1cebfab3fda98a7df615","name":"Project Wings (10 Adet)","price":454,"description":"450 gr Kanat. Baharatlı patates kızartması ve ranch sos ile.","imageUrl":"/menu-images/project-wings-10-adet_f92dca4c.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df633","categoryId":"699e1cebfab3fda98a7df615","name":"Project But (10 Adet)","price":440,"description":"450 gr But. Baharatlı patates kızartması ve ranch sos ile.","imageUrl":"/menu-images/project-but-10-adet_ee94664e.jpg","order":6,"isActive":true}]},{"id":"699e1cebfab3fda98a7df616","name":"Plate Mix Project","slug":"plate-mix-project","description":"","coverImageUrl":"/menu-images/plate-mix-project_fa534d36.jpg","order":5,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df634","categoryId":"699e1cebfab3fda98a7df616","name":"Plate Mix 1","price":440,"description":"Akdeniz salata, 80 gr cheddar soslu penne, 12 parça kızarmış tavuk (150 gr)","imageUrl":"/menu-images/plate-mix-1_9322b5cc.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df635","categoryId":"699e1cebfab3fda98a7df616","name":"Plate Mix 2","price":440,"description":"Sezar salata, 80 gr kremalı penne, 12 parça kızarmış tavuk (150 gr)","imageUrl":"/menu-images/plate-mix-2_29c7be7a.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df636","categoryId":"699e1cebfab3fda98a7df616","name":"Plate Mix 3","price":440,"description":"Akdeniz salata, 80 gr kremalı fettuccine, 12 parça kızarmış tavuk (150 gr)","imageUrl":"/menu-images/plate-mix-3_78ddede6.jpg","order":3,"isActive":true}]},{"id":"699e1cebfab3fda98a7df617","name":"Makarnalar","slug":"makarnalar","description":"","coverImageUrl":"","order":6,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df637","categoryId":"699e1cebfab3fda98a7df617","name":"Tavuklu Kremalı Penne","price":350,"description":"140 gr penne, kremalı makarna sosu, 8 parça kızarmış tavuk (100 gr), parmesan peyniri ile...","imageUrl":"","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df638","categoryId":"699e1cebfab3fda98a7df617","name":"Tavuklu Kremalı Fettuccine","price":360,"description":"140 gr fettuccine, kremalı makarna sosu, 8 parça kızarmış tavuk (100 gr), parmesan peyniri ile...","imageUrl":"","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df639","categoryId":"699e1cebfab3fda98a7df617","name":"Cheddar Soslu Penne","price":350,"description":"140 gr penne, cheddar sosu, 8 parça kızarmış tavuk (100 gr)","imageUrl":"","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df63a","categoryId":"699e1cebfab3fda98a7df617","name":"Cheddar Soslu Fettuccine","price":360,"description":"140 gr fettuccine, cheddar sosu, 8 parça kızarmış tavuk (100 gr)","imageUrl":"","order":4,"isActive":true}]},{"id":"699e1cebfab3fda98a7df618","name":"Salatalar","slug":"salatalar","description":"","coverImageUrl":"/menu-images/salatalar_cfefda7c.jpg","order":7,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df63b","categoryId":"699e1cebfab3fda98a7df618","name":"Sezar Project Salata","price":250,"description":"Iceberg marul, cherry domates, kruton, sezar sos. 100-110 gr tavuk ile hazırlanır.","imageUrl":"/menu-images/sezar-project-salata_78f9df12.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df63c","categoryId":"699e1cebfab3fda98a7df618","name":"Ton Balıklı Salata","price":250,"description":"Iceberg marul, cherry domates, mısır, mayonez. 80 gr ton balığı ile hazırlanır.","imageUrl":"/menu-images/ton-bal-kl-salata_e76a2830.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df63d","categoryId":"699e1cebfab3fda98a7df618","name":"Çıtır Tavuk Salata","price":350,"description":"Roka, Lollo Rosso, Havuç, İceberg Marul,Renkli Biber, Cherry Domates, Çıtır Mantar 70gr, Çıtır Tavuk Parçaları 100gr, Ballı Hardal Sos ve Özel Salata Sosu","imageUrl":"/menu-images/c-t-r-tavuk-salata_d73f8d2c.jpg","order":3,"isActive":true}]},{"id":"699e1cebfab3fda98a7df619","name":"Special Menüler","slug":"special-menuler","description":"","coverImageUrl":"/menu-images/special-menuler_e29f5aee.jpg","order":8,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df63e","categoryId":"699e1cebfab3fda98a7df619","name":"Sweety Secret Project Menü","price":339,"description":"","imageUrl":"/menu-images/sweety-secret-project-menu_aec5425c.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df63f","categoryId":"699e1cebfab3fda98a7df619","name":"Shoot Project ( 8 adet )","price":172,"description":"","imageUrl":"/menu-images/shoot-project-8-adet_59e4b9bc.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df640","categoryId":"699e1cebfab3fda98a7df619","name":"Shoot Project (12 adet )","price":189,"description":"","imageUrl":"/menu-images/shoot-project-12-adet_b37750d4.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df641","categoryId":"699e1cebfab3fda98a7df619","name":"combo mix menü","price":477,"description":"","imageUrl":"/menu-images/combo-mix-menu_a51c52d5.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df642","categoryId":"699e1cebfab3fda98a7df619","name":"top secret menü","price":339,"description":"","imageUrl":"/menu-images/top-secret-menu_314e4c44.jpg","order":5,"isActive":true}]},{"id":"699e1cebfab3fda98a7df61a","name":"Sausage (Hot Dog)","slug":"sausage-hot-dog","description":"","coverImageUrl":"/menu-images/sausage-hot-dog_707a89be.jpg","order":9,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df643","categoryId":"699e1cebfab3fda98a7df61a","name":"Original Sausage Project","price":249,"description":"Piliç sosis, iceberg marul, mayonez, cheddar peyniri, turşu. Baharatlı patates kızartması ile","imageUrl":"/menu-images/original-sausage-project_3796578d.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df644","categoryId":"699e1cebfab3fda98a7df61a","name":"X mayo Sausage Project","price":249,"description":"Piliç jumbo sosis, özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile","imageUrl":"/menu-images/x-mayo-sausage-project_5a4776f7.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df645","categoryId":"699e1cebfab3fda98a7df61a","name":"Secret Sausage Project","price":249,"description":"Secret sos, turşu, balı hardal, soslu kırmızılahana. Baharatlı patates kızartması ile","imageUrl":"/menu-images/secret-sausage-project_f24e5eba.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df646","categoryId":"699e1cebfab3fda98a7df61a","name":"BBQ Sausage Project","price":249,"description":"Piliç jumbo sosis, özel barbekü sos, mayonez, iceberg marul, cheddar peyniri. Baharatlı patates kızartması ile","imageUrl":"/menu-images/bbq-sausage-project_0d015117.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df647","categoryId":"699e1cebfab3fda98a7df61a","name":"White Secret Sausage","price":249,"description":"","imageUrl":"/menu-images/white-secret-sausage_a47fe381.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df648","categoryId":"699e1cebfab3fda98a7df61a","name":"Project X Sausage","price":249,"description":"Piliç jumbo sosis, özel acı sos, iceberg marul, turşu, mayonez. Baharatlı patates kızartması ile","imageUrl":"/menu-images/project-x-sausage_d19f2c17.jpg","order":6,"isActive":true}]},{"id":"699e1cebfab3fda98a7df61b","name":"Wrap Project Menüler","slug":"wrap-project-menuler","description":"","coverImageUrl":"/menu-images/wrap-project-menuler_444b9423.jpg","order":10,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df649","categoryId":"699e1cebfab3fda98a7df61b","name":"Orijinal Wrap Project","price":310,"description":"2 adet tenders, iceberg marul, turşu, mayonez,cheddar. Baharatlı patates kızartması ile","imageUrl":"/menu-images/orijinal-wrap-project_1f441e52.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df64a","categoryId":"699e1cebfab3fda98a7df61b","name":"BBQ Wrap Project","price":310,"description":"Tenders (2 adet), özel barbekü sos, mayonez, iceberg marul, cheddar peyniri. Baharatlı patates kızartması ile","imageUrl":"/menu-images/bbq-wrap-project_1bab4117.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df64b","categoryId":"699e1cebfab3fda98a7df61b","name":"Secret Wrap Project","price":310,"description":"2 adet tenders, özel Secret sos, turşu, ballı hardal, soslu kırmızılahana. Baharatlı patates kızartması ile","imageUrl":"/menu-images/secret-wrap-project_8aa69984.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df64c","categoryId":"699e1cebfab3fda98a7df61b","name":"X Mayo Wrap Project","price":310,"description":"2 adet tenders, özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile","imageUrl":"/menu-images/x-mayo-wrap-project_4bda6df5.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df64d","categoryId":"699e1cebfab3fda98a7df61b","name":"X Wrap Project","price":310,"description":"2 adet tenders, özel acı sos, iceberg marul, turşu, mayonez. Baharatlı patates kızartması ile","imageUrl":"/menu-images/x-wrap-project_00342116.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df64e","categoryId":"699e1cebfab3fda98a7df61b","name":"Sweety Wrap Project","price":310,"description":"Tenders (2 adet), özel sweety sos, turşu, iceberg marul. Patates kızartması ile","imageUrl":"/menu-images/sweety-wrap-project_709ab400.jpg","order":6,"isActive":true}]},{"id":"699e1cebfab3fda98a7df61c","name":"Kampanyalı Menüler","slug":"kampanyal-menuler","description":"","coverImageUrl":"/menu-images/kampanyal-menuler_12906155.jpg","order":11,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df64f","categoryId":"699e1cebfab3fda98a7df61c","name":"Orjinal Project Burger + 2 Adet Tenders +2 Adet sos+ İçecek","price":445,"description":"","imageUrl":"","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df650","categoryId":"699e1cebfab3fda98a7df61c","name":"2 Adet Tenders + 4 Adet Nugget + 5 Adet Soğan Halkası +2 Adet sos+ İçecek","price":500,"description":"","imageUrl":"","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df651","categoryId":"699e1cebfab3fda98a7df61c","name":"Fırsat Menüsü ( 2 adet orijinal burger, 4 adet but, 1 litre Coca Cola)","price":650,"description":"","imageUrl":"","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df652","categoryId":"699e1cebfab3fda98a7df61c","name":"Tek Kişilik Maxi Burger Menü","price":395,"description":"","imageUrl":"","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df653","categoryId":"699e1cebfab3fda98a7df61c","name":"Party Box Menü","price":815,"description":"4 Adet Orijinal Tenders + 4 Adet Orijinal Kanat + 4 Adet Orijinal But + 1 Adet Patates Kızartması (100 gr.) + 5 Adet Soğan Halkası + 2 Adet Ranch Sos + 1 Adet Coca-Cola (1 L.)","imageUrl":"/menu-images/party-box-menu_088b67d8.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df654","categoryId":"699e1cebfab3fda98a7df61c","name":"2 Kişilik Maxi Kutu Menü","price":778,"description":"2 Adet Original Burger + 5 Adet Tenders + 5 Adet Soğan Halkası + 100 gram Patates Kızartması + 1 Adet Coca-Cola (1 L.)","imageUrl":"/menu-images/2-kisilik-maxi-kutu-menu_65b70f34.jpg","order":6,"isActive":true}]},{"id":"699e1cebfab3fda98a7df61d","name":"Ekstra Ürünler","slug":"ekstra-urunler","description":"","coverImageUrl":"/menu-images/ekstra-urunler_7c0d7517.jpg","order":12,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df655","categoryId":"699e1cebfab3fda98a7df61d","name":"Patates Kızartması","price":105,"description":"","imageUrl":"/menu-images/patates-k-zartmas_aa0642fd.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df656","categoryId":"699e1cebfab3fda98a7df61d","name":"Soğan Halkası (5 adet)","price":95,"description":"","imageUrl":"/menu-images/sogan-halkas-5-adet_beca0e1f.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df657","categoryId":"699e1cebfab3fda98a7df61d","name":"Soğan Halkası (9 Adet)","price":105,"description":"","imageUrl":"/menu-images/sogan-halkas-9-adet_c30d758f.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df658","categoryId":"699e1cebfab3fda98a7df61d","name":"Cheese Sticks (5 Adet)","price":115,"description":"","imageUrl":"/menu-images/cheese-sticks-5-adet_40f21836.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df659","categoryId":"699e1cebfab3fda98a7df61d","name":"ekmek","price":25,"description":"","imageUrl":"/menu-images/ekmek_66d1f764.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df65a","categoryId":"699e1cebfab3fda98a7df61d","name":"3 adet but","price":115,"description":"","imageUrl":"/menu-images/3-adet-but_a859816f.jpg","order":6,"isActive":true},{"id":"699e1cebfab3fda98a7df65b","categoryId":"699e1cebfab3fda98a7df61d","name":"2 adet ekstra tenders","price":105,"description":"","imageUrl":"/menu-images/2-adet-ekstra-tenders_429a958c.jpg","order":7,"isActive":true},{"id":"699e1cebfab3fda98a7df65c","categoryId":"699e1cebfab3fda98a7df61d","name":"3 adet ekstra wings","price":115,"description":"","imageUrl":"/menu-images/3-adet-ekstra-wings_f0594d2b.jpg","order":8,"isActive":true}]},{"id":"699e1cebfab3fda98a7df61e","name":"Soslar","slug":"soslar","description":"","coverImageUrl":"/menu-images/soslar_c0e2fb7c.jpg","order":13,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df65d","categoryId":"699e1cebfab3fda98a7df61e","name":"top secret sos","price":25,"description":"","imageUrl":"/menu-images/top-secret-sos_22f58c4e.jpg","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df65e","categoryId":"699e1cebfab3fda98a7df61e","name":"Sos Tabağı","price":125,"description":"","imageUrl":"/menu-images/sos-tabag_2ba8c76a.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df65f","categoryId":"699e1cebfab3fda98a7df61e","name":"Sweety Sos","price":25,"description":"","imageUrl":"/menu-images/sweety-sos_3459b237.jpg","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df660","categoryId":"699e1cebfab3fda98a7df61e","name":"Özel Secret Sos","price":25,"description":"","imageUrl":"/menu-images/ozel-secret-sos_9b699ae6.jpg","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df661","categoryId":"699e1cebfab3fda98a7df61e","name":"Relish Sos","price":25,"description":"","imageUrl":"/menu-images/relish-sos_f16d84ff.jpg","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df662","categoryId":"699e1cebfab3fda98a7df61e","name":"Hot X Sos","price":25,"description":"","imageUrl":"/menu-images/hot-x-sos_d732b1ef.jpg","order":6,"isActive":true},{"id":"699e1cebfab3fda98a7df663","categoryId":"699e1cebfab3fda98a7df61e","name":"Ranch Sos","price":25,"description":"","imageUrl":"/menu-images/ranch-sos_5c1d9eb2.jpg","order":7,"isActive":true},{"id":"699e1cebfab3fda98a7df664","categoryId":"699e1cebfab3fda98a7df61e","name":"BBQ Sos","price":25,"description":"","imageUrl":"/menu-images/bbq-sos_0edda78f.jpg","order":8,"isActive":true},{"id":"699e1cebfab3fda98a7df665","categoryId":"699e1cebfab3fda98a7df61e","name":"Ballı Hardal","price":25,"description":"","imageUrl":"/menu-images/ball-hardal_38c2d34d.jpg","order":9,"isActive":true},{"id":"699e1cebfab3fda98a7df666","categoryId":"699e1cebfab3fda98a7df61e","name":"X Mayo","price":25,"description":"","imageUrl":"/menu-images/x-mayo_0230edc6.jpg","order":10,"isActive":true},{"id":"699e1cebfab3fda98a7df667","categoryId":"699e1cebfab3fda98a7df61e","name":"ketçap","price":18,"description":"","imageUrl":"","order":11,"isActive":true},{"id":"699e1cebfab3fda98a7df668","categoryId":"699e1cebfab3fda98a7df61e","name":"mayonez","price":18,"description":"","imageUrl":"","order":12,"isActive":true},{"id":"699e1cebfab3fda98a7df669","categoryId":"699e1cebfab3fda98a7df61e","name":"Cheddar Sos","price":25,"description":"","imageUrl":"","order":13,"isActive":true}]},{"id":"699e1cebfab3fda98a7df61f","name":"Soğuk İçecekler","slug":"soguk-icecekler","description":"","coverImageUrl":"/menu-images/soguk-icecekler_c7499ad9.jpg","order":14,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df66a","categoryId":"699e1cebfab3fda98a7df61f","name":"Su","price":25,"description":"","imageUrl":"","order":1,"isActive":true},{"id":"699e1cebfab3fda98a7df66b","categoryId":"699e1cebfab3fda98a7df61f","name":"Soda","price":40,"description":"","imageUrl":"/menu-images/soda_f8020587.jpg","order":2,"isActive":true},{"id":"699e1cebfab3fda98a7df66c","categoryId":"699e1cebfab3fda98a7df61f","name":"Fuse Tea Mango","price":80,"description":"","imageUrl":"","order":3,"isActive":true},{"id":"699e1cebfab3fda98a7df66d","categoryId":"699e1cebfab3fda98a7df61f","name":"Fuse Tea Limon","price":80,"description":"","imageUrl":"","order":4,"isActive":true},{"id":"699e1cebfab3fda98a7df66e","categoryId":"699e1cebfab3fda98a7df61f","name":"Coca Cola ZERO","price":80,"description":"","imageUrl":"","order":5,"isActive":true},{"id":"699e1cebfab3fda98a7df66f","categoryId":"699e1cebfab3fda98a7df61f","name":"Fuse Tea Şeftali","price":80,"description":"","imageUrl":"","order":6,"isActive":true},{"id":"699e1cebfab3fda98a7df670","categoryId":"699e1cebfab3fda98a7df61f","name":"Fanta","price":80,"description":"","imageUrl":"","order":7,"isActive":true},{"id":"699e1cebfab3fda98a7df671","categoryId":"699e1cebfab3fda98a7df61f","name":"Sprite","price":80,"description":"","imageUrl":"","order":8,"isActive":true},{"id":"699e1cebfab3fda98a7df672","categoryId":"699e1cebfab3fda98a7df61f","name":"Ayran","price":80,"description":"","imageUrl":"","order":9,"isActive":true},{"id":"699e1cebfab3fda98a7df673","categoryId":"699e1cebfab3fda98a7df61f","name":"Coca Cola","price":80,"description":"","imageUrl":"/menu-images/coca-cola_9f59dd87.jpg","order":10,"isActive":true},{"id":"699e1cebfab3fda98a7df674","categoryId":"699e1cebfab3fda98a7df61f","name":"Coca Cola Zero 1 LT","price":115,"description":"","imageUrl":"","order":11,"isActive":true},{"id":"699e1cebfab3fda98a7df675","categoryId":"699e1cebfab3fda98a7df61f","name":"Coca Cola 1 LT","price":115,"description":"","imageUrl":"","order":12,"isActive":true}]},{"id":"699e1cebfab3fda98a7df620","name":"Tatlı","slug":"tatl","description":"","coverImageUrl":"/menu-images/tatl_ca2f60aa.jpg","order":15,"isFeatured":false,"items":[{"id":"699e1cebfab3fda98a7df676","categoryId":"699e1cebfab3fda98a7df620","name":"Churros (Çiroz)","price":130,"description":"","imageUrl":"/menu-images/churros-ciroz_2edec5a7.jpg","order":1,"isActive":true}]}]}
+{
+  "ok": true,
+  "menu": [
+    {
+      "id": "699e1cebfab3fda98a7df612",
+      "name": "En Çok Tercih Edilenler",
+      "slug": "en-cok-tercih-edilenler",
+      "description": "",
+      "coverImageUrl": "/menu-images/en-cok-tercih-edilenler_6b650c15.jpg",
+      "order": 1,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df621",
+          "categoryId": "699e1cebfab3fda98a7df612",
+          "name": "Black Secret Burger",
+          "price": 385,
+          "description": "Siyah burger ekmeği, kızarmış tavuk (130 - 140 gr), double cheddar peyniri, kırmızı çıtır soğan, ranch sos, göbek marul. Baharatlı patates kızartması ile.",
+          "imageUrl": "/menu-images/black-secret-burger_20da96d8.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df622",
+          "categoryId": "699e1cebfab3fda98a7df612",
+          "name": "X Mayo Burger",
+          "price": 380,
+          "description": "Kızarmış Tavuk (130-140gr), özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile...",
+          "imageUrl": "/menu-images/x-mayo-burger_32968526.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df623",
+          "categoryId": "699e1cebfab3fda98a7df612",
+          "name": "Project Tenders (5 Adet)",
+          "price": 370,
+          "description": "Adet (45-50 gr), baharatlı patates kızartması ile...",
+          "imageUrl": "/menu-images/project-tenders-5-adet_2e78c413.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df624",
+          "categoryId": "699e1cebfab3fda98a7df612",
+          "name": "Project Wings (6 Adet)",
+          "price": 385,
+          "description": "270gr Kanat. Baharatlı patates kızartması ve ranch sos ile.",
+          "imageUrl": "/menu-images/project-wings-6-adet_5c4b9a9d.jpg",
+          "order": 4,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df613",
+      "name": "Yeni Ürünler",
+      "slug": "yeni-urunler",
+      "description": "",
+      "coverImageUrl": "/menu-images/yeni-urunler_c25cbdbb.jpg",
+      "order": 2,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df625",
+          "categoryId": "699e1cebfab3fda98a7df613",
+          "name": "Project Çıtır Mantar",
+          "price": 250,
+          "description": "",
+          "imageUrl": "/menu-images/project-c-t-r-mantar_da944c25.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df626",
+          "categoryId": "699e1cebfab3fda98a7df613",
+          "name": "Project Burrito",
+          "price": 330,
+          "description": "100 gr kızarmış tavuk, göbek, kırmızı soğan, mısır, turşu, meksika fasülyesi, x mayo sos, barbekü sos, patates",
+          "imageUrl": "",
+          "order": 2,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df614",
+      "name": "Burgerler",
+      "slug": "burgerler",
+      "description": "",
+      "coverImageUrl": "/menu-images/burgerler_1dc62708.jpg",
+      "order": 3,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df627",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "Orijinal Project Burger",
+          "price": 380,
+          "description": "Kızarmış tavuk (130-140gr), cheddar peyniri, iceberg, turşu, mayonez. Baharatlı patates kızartması ile...",
+          "imageUrl": "/menu-images/orijinal-project-burger_20cc0286.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df628",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "Black Secret Burger",
+          "price": 385,
+          "description": "Siyah burger ekmeği, kızarmış tavuk (130 - 140 gr), double cheddar peyniri, kırmızı çıtır soğan, ranch sos, göbek marul. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/black-secret-burger_bccafd40.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df629",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "Secret Project Burger",
+          "price": 380,
+          "description": "Kızarmış tavuk (130-140gr), özel secret sos, turşu, ballı hardal, soslu kırmızı lahana. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/secret-project-burger_018f1ed4.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df62a",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "X Mayo Burger",
+          "price": 380,
+          "description": "Kızarmış Tavuk (130-140gr), özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/x-mayo-burger_f78c939b.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df62b",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "Project X Burger",
+          "price": 380,
+          "description": "Kızarmış tavuk (130-140gr), özel acı sos, iceberg, turşu, mayonez. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/project-x-burger_1a36f83d.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df62c",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "BBQ Project Burger",
+          "price": 380,
+          "description": "Kızarmış tavuk (130-140gr), özel barbekü sos, iceberg, mayonez, cheddar peyniri. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/bbq-project-burger_47e36f54.jpg",
+          "order": 6,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df62d",
+          "categoryId": "699e1cebfab3fda98a7df614",
+          "name": "Sweety Project Burger",
+          "price": 380,
+          "description": "Kızarmış tavuk (130-140gr), özel sweety sos, göbek, turşu ve baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/sweety-project-burger_6ae0e767.jpg",
+          "order": 7,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df615",
+      "name": "Parça Tavuklar",
+      "slug": "parca-tavuklar",
+      "description": "",
+      "coverImageUrl": "/menu-images/parca-tavuklar_fbd17245.jpg",
+      "order": 4,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df62e",
+          "categoryId": "699e1cebfab3fda98a7df615",
+          "name": "Project Tenders (5 Adet)",
+          "price": 370,
+          "description": "Adet (45-50 gr), baharatlı patates kızartması ile...",
+          "imageUrl": "/menu-images/project-tenders-5-adet_b36605e2.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df62f",
+          "categoryId": "699e1cebfab3fda98a7df615",
+          "name": "Project Wings (6 Adet)",
+          "price": 385,
+          "description": "270gr Kanat. Baharatlı patates kızartması ve ranch sos ile.",
+          "imageUrl": "/menu-images/project-wings-6-adet_32d2f6ae.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df630",
+          "categoryId": "699e1cebfab3fda98a7df615",
+          "name": "Project But (6 Adet)",
+          "price": 373,
+          "description": "270gr But. Baharatlı patates kızartması ve ranch sos ile.",
+          "imageUrl": "/menu-images/project-but-6-adet_7b6f3e39.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df631",
+          "categoryId": "699e1cebfab3fda98a7df615",
+          "name": "Project Tenders (9 Adet)",
+          "price": 465,
+          "description": "Adet (45-50 gr), baharatlı patates kızartması ile...",
+          "imageUrl": "/menu-images/project-tenders-9-adet_c092afcd.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df632",
+          "categoryId": "699e1cebfab3fda98a7df615",
+          "name": "Project Wings (10 Adet)",
+          "price": 454,
+          "description": "450 gr Kanat. Baharatlı patates kızartması ve ranch sos ile.",
+          "imageUrl": "/menu-images/project-wings-10-adet_f92dca4c.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df633",
+          "categoryId": "699e1cebfab3fda98a7df615",
+          "name": "Project But (10 Adet)",
+          "price": 440,
+          "description": "450 gr But. Baharatlı patates kızartması ve ranch sos ile.",
+          "imageUrl": "/menu-images/project-but-10-adet_ee94664e.jpg",
+          "order": 6,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df616",
+      "name": "Plate Mix Project",
+      "slug": "plate-mix-project",
+      "description": "",
+      "coverImageUrl": "/menu-images/plate-mix-project_fa534d36.jpg",
+      "order": 5,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df634",
+          "categoryId": "699e1cebfab3fda98a7df616",
+          "name": "Plate Mix 1",
+          "price": 440,
+          "description": "Akdeniz salata, 80 gr cheddar soslu penne, 12 parça kızarmış tavuk (150 gr)",
+          "imageUrl": "/menu-images/plate-mix-1_9322b5cc.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df635",
+          "categoryId": "699e1cebfab3fda98a7df616",
+          "name": "Plate Mix 2",
+          "price": 440,
+          "description": "Sezar salata, 80 gr kremalı penne, 12 parça kızarmış tavuk (150 gr)",
+          "imageUrl": "/menu-images/plate-mix-2_29c7be7a.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df636",
+          "categoryId": "699e1cebfab3fda98a7df616",
+          "name": "Plate Mix 3",
+          "price": 440,
+          "description": "Akdeniz salata, 80 gr kremalı fettuccine, 12 parça kızarmış tavuk (150 gr)",
+          "imageUrl": "/menu-images/plate-mix-3_78ddede6.jpg",
+          "order": 3,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df617",
+      "name": "Makarnalar",
+      "slug": "makarnalar",
+      "description": "",
+      "coverImageUrl": "",
+      "order": 6,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df637",
+          "categoryId": "699e1cebfab3fda98a7df617",
+          "name": "Tavuklu Kremalı Penne",
+          "price": 350,
+          "description": "140 gr penne, kremalı makarna sosu, 8 parça kızarmış tavuk (100 gr), parmesan peyniri ile...",
+          "imageUrl": "",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df638",
+          "categoryId": "699e1cebfab3fda98a7df617",
+          "name": "Tavuklu Kremalı Fettuccine",
+          "price": 360,
+          "description": "140 gr fettuccine, kremalı makarna sosu, 8 parça kızarmış tavuk (100 gr), parmesan peyniri ile...",
+          "imageUrl": "",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df639",
+          "categoryId": "699e1cebfab3fda98a7df617",
+          "name": "Cheddar Soslu Penne",
+          "price": 350,
+          "description": "140 gr penne, cheddar sosu, 8 parça kızarmış tavuk (100 gr)",
+          "imageUrl": "",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df63a",
+          "categoryId": "699e1cebfab3fda98a7df617",
+          "name": "Cheddar Soslu Fettuccine",
+          "price": 360,
+          "description": "140 gr fettuccine, cheddar sosu, 8 parça kızarmış tavuk (100 gr)",
+          "imageUrl": "",
+          "order": 4,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df618",
+      "name": "Salatalar",
+      "slug": "salatalar",
+      "description": "",
+      "coverImageUrl": "/menu-images/salatalar_cfefda7c.jpg",
+      "order": 7,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df63b",
+          "categoryId": "699e1cebfab3fda98a7df618",
+          "name": "Sezar Project Salata",
+          "price": 250,
+          "description": "Iceberg marul, cherry domates, kruton, sezar sos. 100-110 gr tavuk ile hazırlanır.",
+          "imageUrl": "/menu-images/sezar-project-salata_78f9df12.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df63c",
+          "categoryId": "699e1cebfab3fda98a7df618",
+          "name": "Ton Balıklı Salata",
+          "price": 250,
+          "description": "Iceberg marul, cherry domates, mısır, mayonez. 80 gr ton balığı ile hazırlanır.",
+          "imageUrl": "/menu-images/ton-bal-kl-salata_e76a2830.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df63d",
+          "categoryId": "699e1cebfab3fda98a7df618",
+          "name": "Çıtır Tavuk Salata",
+          "price": 350,
+          "description": "Roka, Lollo Rosso, Havuç, İceberg Marul,Renkli Biber, Cherry Domates, Çıtır Mantar 70gr, Çıtır Tavuk Parçaları 100gr, Ballı Hardal Sos ve Özel Salata Sosu",
+          "imageUrl": "/menu-images/c-t-r-tavuk-salata_d73f8d2c.jpg",
+          "order": 3,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df619",
+      "name": "Special Menüler",
+      "slug": "special-menuler",
+      "description": "",
+      "coverImageUrl": "/menu-images/special-menuler_e29f5aee.jpg",
+      "order": 8,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df63e",
+          "categoryId": "699e1cebfab3fda98a7df619",
+          "name": "Sweety Secret Project Menü",
+          "price": 339,
+          "description": "",
+          "imageUrl": "/menu-images/sweety-secret-project-menu_aec5425c.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df63f",
+          "categoryId": "699e1cebfab3fda98a7df619",
+          "name": "Shoot Project ( 8 adet )",
+          "price": 172,
+          "description": "",
+          "imageUrl": "/menu-images/shoot-project-8-adet_59e4b9bc.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df640",
+          "categoryId": "699e1cebfab3fda98a7df619",
+          "name": "Shoot Project (12 adet )",
+          "price": 189,
+          "description": "",
+          "imageUrl": "/menu-images/shoot-project-12-adet_b37750d4.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df641",
+          "categoryId": "699e1cebfab3fda98a7df619",
+          "name": "combo mix menü",
+          "price": 477,
+          "description": "",
+          "imageUrl": "/menu-images/combo-mix-menu_a51c52d5.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df642",
+          "categoryId": "699e1cebfab3fda98a7df619",
+          "name": "top secret menü",
+          "price": 339,
+          "description": "",
+          "imageUrl": "/menu-images/top-secret-menu_314e4c44.jpg",
+          "order": 5,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df61a",
+      "name": "Sausage (Hot Dog)",
+      "slug": "sausage-hot-dog",
+      "description": "",
+      "coverImageUrl": "/menu-images/sausage-hot-dog_707a89be.jpg",
+      "order": 9,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df643",
+          "categoryId": "699e1cebfab3fda98a7df61a",
+          "name": "Original Sausage Project",
+          "price": 249,
+          "description": "Piliç sosis, iceberg marul, mayonez, cheddar peyniri, turşu. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/original-sausage-project_3796578d.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df644",
+          "categoryId": "699e1cebfab3fda98a7df61a",
+          "name": "X mayo Sausage Project",
+          "price": 249,
+          "description": "Piliç jumbo sosis, özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/x-mayo-sausage-project_5a4776f7.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df645",
+          "categoryId": "699e1cebfab3fda98a7df61a",
+          "name": "Secret Sausage Project",
+          "price": 249,
+          "description": "Secret sos, turşu, balı hardal, soslu kırmızılahana. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/secret-sausage-project_f24e5eba.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df646",
+          "categoryId": "699e1cebfab3fda98a7df61a",
+          "name": "BBQ Sausage Project",
+          "price": 249,
+          "description": "Piliç jumbo sosis, özel barbekü sos, mayonez, iceberg marul, cheddar peyniri. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/bbq-sausage-project_0d015117.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df647",
+          "categoryId": "699e1cebfab3fda98a7df61a",
+          "name": "White Secret Sausage",
+          "price": 249,
+          "description": "",
+          "imageUrl": "/menu-images/white-secret-sausage_a47fe381.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df648",
+          "categoryId": "699e1cebfab3fda98a7df61a",
+          "name": "Project X Sausage",
+          "price": 249,
+          "description": "Piliç jumbo sosis, özel acı sos, iceberg marul, turşu, mayonez. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/project-x-sausage_d19f2c17.jpg",
+          "order": 6,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df61b",
+      "name": "Wrap Project Menüler",
+      "slug": "wrap-project-menuler",
+      "description": "",
+      "coverImageUrl": "/menu-images/wrap-project-menuler_444b9423.jpg",
+      "order": 10,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df649",
+          "categoryId": "699e1cebfab3fda98a7df61b",
+          "name": "Orijinal Wrap Project",
+          "price": 310,
+          "description": "2 adet tenders, iceberg marul, turşu, mayonez,cheddar. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/orijinal-wrap-project_1f441e52.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df64a",
+          "categoryId": "699e1cebfab3fda98a7df61b",
+          "name": "BBQ Wrap Project",
+          "price": 310,
+          "description": "Tenders (2 adet), özel barbekü sos, mayonez, iceberg marul, cheddar peyniri. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/bbq-wrap-project_1bab4117.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df64b",
+          "categoryId": "699e1cebfab3fda98a7df61b",
+          "name": "Secret Wrap Project",
+          "price": 310,
+          "description": "2 adet tenders, özel Secret sos, turşu, ballı hardal, soslu kırmızılahana. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/secret-wrap-project_8aa69984.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df64c",
+          "categoryId": "699e1cebfab3fda98a7df61b",
+          "name": "X Mayo Wrap Project",
+          "price": 310,
+          "description": "2 adet tenders, özel ev yapımı acı mayonez, cheddar peyniri, iceberg marul. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/x-mayo-wrap-project_4bda6df5.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df64d",
+          "categoryId": "699e1cebfab3fda98a7df61b",
+          "name": "X Wrap Project",
+          "price": 310,
+          "description": "2 adet tenders, özel acı sos, iceberg marul, turşu, mayonez. Baharatlı patates kızartması ile",
+          "imageUrl": "/menu-images/x-wrap-project_00342116.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df64e",
+          "categoryId": "699e1cebfab3fda98a7df61b",
+          "name": "Sweety Wrap Project",
+          "price": 310,
+          "description": "Tenders (2 adet), özel sweety sos, turşu, iceberg marul. Patates kızartması ile",
+          "imageUrl": "/menu-images/sweety-wrap-project_709ab400.jpg",
+          "order": 6,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df61c",
+      "name": "Kampanyalı Menüler",
+      "slug": "kampanyal-menuler",
+      "description": "",
+      "coverImageUrl": "/menu-images/kampanyal-menuler_12906155.jpg",
+      "order": 11,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df64f",
+          "categoryId": "699e1cebfab3fda98a7df61c",
+          "name": "Orjinal Project Burger + 2 Adet Tenders +2 Adet sos+ İçecek",
+          "price": 445,
+          "description": "",
+          "imageUrl": "",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df650",
+          "categoryId": "699e1cebfab3fda98a7df61c",
+          "name": "2 Adet Tenders + 4 Adet Nugget + 5 Adet Soğan Halkası +2 Adet sos+ İçecek",
+          "price": 500,
+          "description": "",
+          "imageUrl": "",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df651",
+          "categoryId": "699e1cebfab3fda98a7df61c",
+          "name": "Fırsat Menüsü ( 2 adet orijinal burger, 4 adet but, 1 litre Coca Cola)",
+          "price": 650,
+          "description": "",
+          "imageUrl": "",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df652",
+          "categoryId": "699e1cebfab3fda98a7df61c",
+          "name": "Tek Kişilik Maxi Burger Menü",
+          "price": 395,
+          "description": "",
+          "imageUrl": "",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df653",
+          "categoryId": "699e1cebfab3fda98a7df61c",
+          "name": "Party Box Menü",
+          "price": 815,
+          "description": "4 Adet Orijinal Tenders + 4 Adet Orijinal Kanat + 4 Adet Orijinal But + 1 Adet Patates Kızartması (100 gr.) + 5 Adet Soğan Halkası + 2 Adet Ranch Sos + 1 Adet Coca-Cola (1 L.)",
+          "imageUrl": "/menu-images/party-box-menu_088b67d8.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df654",
+          "categoryId": "699e1cebfab3fda98a7df61c",
+          "name": "2 Kişilik Maxi Kutu Menü",
+          "price": 778,
+          "description": "2 Adet Original Burger + 5 Adet Tenders + 5 Adet Soğan Halkası + 100 gram Patates Kızartması + 1 Adet Coca-Cola (1 L.)",
+          "imageUrl": "/menu-images/2-kisilik-maxi-kutu-menu_65b70f34.jpg",
+          "order": 6,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df61d",
+      "name": "Ekstra Ürünler",
+      "slug": "ekstra-urunler",
+      "description": "",
+      "coverImageUrl": "/menu-images/ekstra-urunler_7c0d7517.jpg",
+      "order": 12,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df655",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "Patates Kızartması",
+          "price": 105,
+          "description": "",
+          "imageUrl": "/menu-images/patates-k-zartmas_aa0642fd.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df656",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "Soğan Halkası (5 adet)",
+          "price": 95,
+          "description": "",
+          "imageUrl": "/menu-images/sogan-halkas-5-adet_beca0e1f.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df657",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "Soğan Halkası (9 Adet)",
+          "price": 105,
+          "description": "",
+          "imageUrl": "/menu-images/sogan-halkas-9-adet_c30d758f.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df658",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "Cheese Sticks (5 Adet)",
+          "price": 115,
+          "description": "",
+          "imageUrl": "/menu-images/cheese-sticks-5-adet_40f21836.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df659",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "ekmek",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/ekmek_66d1f764.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df65a",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "3 adet but",
+          "price": 115,
+          "description": "",
+          "imageUrl": "/menu-images/3-adet-but_a859816f.jpg",
+          "order": 6,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df65b",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "2 adet ekstra tenders",
+          "price": 105,
+          "description": "",
+          "imageUrl": "/menu-images/2-adet-ekstra-tenders_429a958c.jpg",
+          "order": 7,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df65c",
+          "categoryId": "699e1cebfab3fda98a7df61d",
+          "name": "3 adet ekstra wings",
+          "price": 115,
+          "description": "",
+          "imageUrl": "/menu-images/3-adet-ekstra-wings_f0594d2b.jpg",
+          "order": 8,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df61e",
+      "name": "Soslar",
+      "slug": "soslar",
+      "description": "",
+      "coverImageUrl": "/menu-images/soslar_c0e2fb7c.jpg",
+      "order": 13,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df65d",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "top secret sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/top-secret-sos_22f58c4e.jpg",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df65e",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Sos Tabağı",
+          "price": 125,
+          "description": "",
+          "imageUrl": "/menu-images/sos-tabag_2ba8c76a.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df65f",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Sweety Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/sweety-sos_3459b237.jpg",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df660",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Özel Secret Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/ozel-secret-sos_9b699ae6.jpg",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df661",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Relish Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/relish-sos_f16d84ff.jpg",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df662",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Hot X Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/hot-x-sos_d732b1ef.jpg",
+          "order": 6,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df663",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Ranch Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/ranch-sos_5c1d9eb2.jpg",
+          "order": 7,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df664",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "BBQ Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/bbq-sos_0edda78f.jpg",
+          "order": 8,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df665",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Ballı Hardal",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/ball-hardal_38c2d34d.jpg",
+          "order": 9,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df666",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "X Mayo",
+          "price": 25,
+          "description": "",
+          "imageUrl": "/menu-images/x-mayo_0230edc6.jpg",
+          "order": 10,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df667",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "ketçap",
+          "price": 18,
+          "description": "",
+          "imageUrl": "",
+          "order": 11,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df668",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "mayonez",
+          "price": 18,
+          "description": "",
+          "imageUrl": "",
+          "order": 12,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df669",
+          "categoryId": "699e1cebfab3fda98a7df61e",
+          "name": "Cheddar Sos",
+          "price": 25,
+          "description": "",
+          "imageUrl": "",
+          "order": 13,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df61f",
+      "name": "Soğuk İçecekler",
+      "slug": "soguk-icecekler",
+      "description": "",
+      "coverImageUrl": "/menu-images/soguk-icecekler_c7499ad9.jpg",
+      "order": 14,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df66a",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Su",
+          "price": 25,
+          "description": "",
+          "imageUrl": "",
+          "order": 1,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df66b",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Soda",
+          "price": 40,
+          "description": "",
+          "imageUrl": "/menu-images/soda_f8020587.jpg",
+          "order": 2,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df66c",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Fuse Tea Mango",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 3,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df66d",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Fuse Tea Limon",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 4,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df66e",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Coca Cola ZERO",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 5,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df66f",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Fuse Tea Şeftali",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 6,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df670",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Fanta",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 7,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df671",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Sprite",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 8,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df672",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Ayran",
+          "price": 80,
+          "description": "",
+          "imageUrl": "",
+          "order": 9,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df673",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Coca Cola",
+          "price": 80,
+          "description": "",
+          "imageUrl": "/menu-images/coca-cola_9f59dd87.jpg",
+          "order": 10,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df674",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Coca Cola Zero 1 LT",
+          "price": 115,
+          "description": "",
+          "imageUrl": "",
+          "order": 11,
+          "isActive": true
+        },
+        {
+          "id": "699e1cebfab3fda98a7df675",
+          "categoryId": "699e1cebfab3fda98a7df61f",
+          "name": "Coca Cola 1 LT",
+          "price": 115,
+          "description": "",
+          "imageUrl": "",
+          "order": 12,
+          "isActive": true
+        }
+      ]
+    },
+    {
+      "id": "699e1cebfab3fda98a7df620",
+      "name": "Tatlı",
+      "slug": "tatl",
+      "description": "",
+      "coverImageUrl": "/menu-images/tatl_ca2f60aa.jpg",
+      "order": 15,
+      "isFeatured": false,
+      "items": [
+        {
+          "id": "699e1cebfab3fda98a7df676",
+          "categoryId": "699e1cebfab3fda98a7df620",
+          "name": "Churros (Çiroz)",
+          "price": 130,
+          "description": "",
+          "imageUrl": "/menu-images/churros-ciroz_2edec5a7.jpg",
+          "order": 1,
+          "isActive": true
+        }
+      ]
+    }
+  ]
+}
